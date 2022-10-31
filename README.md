@@ -5,7 +5,8 @@
 ##### streamlit 1.14.0
 ##### plotly 5.11.0
 
-## Run the demo by command: "streamlit run food_consumption.py"
+## Run the demo by command
+#### "streamlit run food_consumption.py"
 
 ## Demo
 <img src="demo.png">
