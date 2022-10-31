@@ -8,4 +8,4 @@
 ## Run the demo by command: "streamlit run food_consumption.py"
 
 ## Demo
-![image] (https://github.com/ShuHwaiTeoh/dashboard-with-streamlit/blob/main/demo.png)
+<img src="demo.png">
