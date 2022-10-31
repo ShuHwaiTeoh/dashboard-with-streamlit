@@ -1,6 +1,6 @@
 # dashboard-with-streamlit
 
-#### Dependencies:
+## Dependencies:
 ##### pandas 1.0.5
 ##### streamlit 1.14.0
 ##### plotly 5.11.0
